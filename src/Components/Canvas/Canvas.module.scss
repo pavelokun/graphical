@@ -1,0 +1,19 @@
+.canvas_wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: #171719;
+}
+
+.canvas_brush {
+  background-image: url('https://pixlr.com/img/misc/square-bg.png');
+  background-size: 40px 40px;
+  cursor: url(brush.png), auto;
+}
+
+.canvas_eraser {
+  background-image: url('https://pixlr.com/img/misc/square-bg.png');
+  background-size: 40px 40px;
+  cursor: url(eraser.png), auto;
+}

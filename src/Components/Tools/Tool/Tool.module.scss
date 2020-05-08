@@ -1,0 +1,15 @@
+.button {
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.icon {
+  color: white;
+  opacity: .6;
+  &_active {
+    color: white;
+    opacity: 1;
+  }
+}

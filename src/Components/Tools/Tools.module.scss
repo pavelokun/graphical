@@ -1,0 +1,27 @@
+.tools {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  background-color: #292c31; 
+}
+
+.ul {
+  padding: 0;
+}
+
+.li {
+  list-style: none;
+  padding: 10px 0px 10px 0;
+  text-align: center;
+}
+
+.input {
+  width: 37px;
+  border: none;
+  background: no-repeat;
+  height: 37px;
+  cursor: pointer;
+  outline: none;
+}
